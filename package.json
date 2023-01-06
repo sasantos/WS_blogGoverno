@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sasantos/WS_blogGoverno/issues"
   },
-  "homepage": "https://github.com/sasantos/WS_blogGoverno#readme"
+  "homepage": "https://github.com/sasantos/WS_blogGoverno#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
 }
